@@ -10,7 +10,7 @@ SOFTWARE IS ALPHA at this point. Things are broken, and some things dont work. :
 I will update/fix things as I have time but PR's are welcomed. Hoping to make this into a nicer / polished project. (Maybe even add some small router functionality like reboots, etc)
 
 ## Router Setup
-* Install Software (nlbwnon, vnstat2, netdata)
+* Install Software (nlbwmon, vnstat2, netdata)
 
 * Configure vnstat to monitor br-lan
 
